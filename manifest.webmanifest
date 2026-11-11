@@ -1,0 +1,9 @@
+{
+  "name": "Axiom Paper Trading",
+  "short_name": "Axiom Paper",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1017",
+  "theme_color": "#0b1017",
+  "description": "Solana Paper Trading mit Live-Marktdaten und virtuellem Portfolio."
+}
